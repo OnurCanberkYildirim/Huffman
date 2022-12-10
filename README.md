@@ -34,3 +34,9 @@
 <p align="center">
 <img src="https://github.com/OnurCanberkYildirim/Huffman/blob/main/Huffman/src/Images/6.png" width="auto">
 </p>
+
+# Örnek değerler aşağıdaki gibi verilmelidir:
+ a 8 b 6 c 3 d 4
+<p align="center">
+<img src="https://github.com/OnurCanberkYildirim/Huffman/blob/main/Huffman/src/Images/7.png" width="auto">
+</p>
